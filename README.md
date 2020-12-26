@@ -1,1 +1,1 @@
-# PhotoAppConfigurationData
+# PhotoAppConfiguration
